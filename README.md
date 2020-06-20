@@ -19,8 +19,8 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 ### Usage:
 ```
 git clone https://github.com/Shymon-Hasan
-cd Rafin.Vau
-bash RAFIN.SH
+cd SH.Rafin
+bash SH.SAM
 ```
 
 ### Donate!
